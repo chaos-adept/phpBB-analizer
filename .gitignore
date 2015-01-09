@@ -195,6 +195,8 @@ $RECYCLE.BIN/
 .idea
 bin-debug
 *.iml
+out/
+out
 
 #############
 ## Python
